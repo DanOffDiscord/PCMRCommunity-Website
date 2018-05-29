@@ -3,10 +3,19 @@
 body {
 	background-color: #FAF8F8;
 	min-height: 100vh;
-	padding-top: 250px;
 	font-family: 'Hind', sans-serif;
 }
-img {
+nav.navbar {
+	background-color: #FAF8F8;
+}
+.logo {
 	width: 300px;
 	border-radius: 100%;
+}
+.pfp {
+	width: 100px;
+	border-radius: 9px;
+}
+.fas, .fab {
+	font-size: 50px;
 }
